@@ -1,8 +1,8 @@
 # Github-to-HuggingFace-Project
 ---
-title basic function
+title: basic function
 colorFrom: blue
-colorTo red
+colorTo: red
 sdk:streamlit
 app_file=app.py
 pinned:false
